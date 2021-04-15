@@ -2,6 +2,8 @@ import serial  # 导入模块
 import threading
 import time
 
+
+
 STRGLO = ""  # 读取的数据
 BOOL = True  # 读取标志位
 
